@@ -70,6 +70,8 @@ void yyerror(const char *s) {
 ```
 # OUTPUT
 
+
+
 ![compex3img1](https://github.com/user-attachments/assets/74dad52c-3dd3-4db5-b428-ebdb76a33c39)
 
 # RESULT
